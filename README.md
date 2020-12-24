@@ -6,7 +6,7 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 
 
 ## Find me around the web 🌎: 
-<h3><a href="https://github.com/chandrashalini/chandrashalini.github.io/">Portfolio</a>👩🏾‍ </h3>
+<h3><a href="https://chandrashalini.github.io/">Portfolio</a>👩🏾‍ </h3>
 - Sharing updates on <a href="https://www.linkedin.com/in/shalini-chandra-b1734b8b/">LinkedIn</a> 💼
 - Catching up on <a href = "mailto: chandra.shal@northeastern.edu">Send Email</a> :e-mail:
 
@@ -24,6 +24,6 @@ Talk to me about
 - I Love ❤️ Data
 - 💬 Ask me about anything and everything about Data.
 - 📫 How to reach me: chandra.shal@northeastern.edu
-- 🎯 Portfolio site: [Portfolio](https://github.com/chandrashalini/chandrashalini.github.io)
+- 🎯 Portfolio site: [Portfolio](https://chandrashalini.github.io/)
 
 
