@@ -1,6 +1,6 @@
 # Hi there, I'm Shalini 👩🏾‍💻
 
-<img src="https://github.com/chandrashalini/chandrashalini/blob/main/my%20image.jpg" width="500px">
+<img src="https://github.com/chandrashalini/chandrashalini/blob/main/my.jpg" width="500px">
 <img align='right' src='https://github.com/chandrashalini/shal/blob/main/data.gif' width='200"'>
 I'm a Data Science enthusiast who is passionate about digging raw data and turns into meaningful data . Always intrigued by visualizing how novel real-world problems can be solved just by critical thinking and innovation, nothing matters more than just acting at the right time. Some technologies I enjoy working with include Machine Learning, Deep Learning, GANS and Natural Language Processing and Business Intelligence. 
 
