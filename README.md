@@ -5,12 +5,12 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 
 
 **Updates:**
-- 🔭 I’m currently working as a Quantitative Reasearch Analyst at GMO 
-- 🔭I'm currently living in Boston. I'm a graduate student studying Master's in Information Systems at Northeastern University, about to graduate in April 2022.
-- 🔭 I’m currently working on [100 Days of Data: Machine Learning and Deep Learning](https://github.com/chandrashalini/100daysofDataScience)
-- 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Fast.ai](https://course.fast.ai/#) and reading Books and Online materials.
-- 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
-- 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/shalini-chandra-b1734b8b/)
+🔭 I’m currently working as a Quantitative Reasearch Analyst at GMO 
+🔭I'm currently living in Boston. I'm a graduate student studying Master's in Information Systems at Northeastern University, about to graduate in April 2022.
+🔭 I’m currently working on [100 Days of Data: Machine Learning and Deep Learning](https://github.com/chandrashalini/100daysofDataScience)
+🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Fast.ai](https://course.fast.ai/#) and reading Books and Online materials.
+👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
+📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/shalini-chandra-b1734b8b/)
 
 
 ## Find me around the web 🌎: 
@@ -30,8 +30,7 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 Talk to me about
 - Data Science and Analytics having expert in **Python, R, SQL, Tableau, Power BI , Talend**
 - Making for **Relational Database Management Systems**
-- Creating scalable cloud architecture using **AWS Cloud**
-- Solving Data structure and algorithm questions in **Python**
+
 
 ## About me 🤔
 - I Love ❤️ Data
