@@ -5,8 +5,10 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 
 
 **Updates:**
-🔭 I’m currently working as a Quantitative Reasearch Analyst at GMO 
+🔭 I’m currently working as a Quantitative Reasearch Analyst at GMO
+
 🔭I'm currently living in Boston. I'm a graduate student studying Master's in Information Systems at Northeastern University, about to graduate in April 2022.
+
 🔭 I’m currently working on [100 Days of Data: Machine Learning and Deep Learning](https://github.com/chandrashalini/100daysofDataScience)
 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Fast.ai](https://course.fast.ai/#) and reading Books and Online materials.
 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
