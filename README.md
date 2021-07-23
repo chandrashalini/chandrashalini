@@ -5,14 +5,17 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 
 
 **Updates:**
-
-🔭 I’m currently working as a Quantitative Reasearch Analyst at GMO
-
 🔭 I'm a graduate student studying Master's in Information Systems at Northeastern University, about to graduate in April 2022.
 
-🔭 I’m currently working on [100 Days of Data: Machine Learning and Deep Learning](https://github.com/chandrashalini/100daysofDataScience)
+🔭 I completed my Co-op as a Quantitative Reasearch Analyst at GMO LLC, Investment based company
 
-🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Fast.ai](https://course.fast.ai/#) and reading Books and Online materials.
+🔭 I am ready to take projects based on Data Science and Analytics, ping me if you need collaboration
+
+🔭 I’m currently working on [66 Days of Data: SQL, Machine Learning and Deep Learning]
+
+🌱 I’m currently learning from [Coursera](https://www.coursera.org/), Towards Data Science and Online materials.
+
+🌱 I’m  writing my blogs relalted to Data on https://shalinichandr.medium.com/. Please do like and follow if it's valuable for you
 
 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** **Deep Learning** and **Data Warehouse and Business Intelligence**
 
