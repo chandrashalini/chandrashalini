@@ -5,6 +5,7 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 
 
 **Updates:**
+
 🔭 I'm a graduate student studying Master's in Information Systems at Northeastern University, about to graduate in April 2022.
 
 🔭 I completed my Co-op as a Quantitative Reasearch Analyst at GMO LLC, Investment based company
