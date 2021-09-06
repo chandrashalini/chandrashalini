@@ -10,6 +10,8 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 
 🔭 I have completed my Co-op as a Quantitative Reasearch Analyst at GMO LLC, Investment based company
 
+🔭 I have almost 4 years of work experience as a data Analyst and Application Development Analyst at Accenture, India
+
 🔭 I am ready to take projects based on Data Science and Analytics, ping me if you need collaboration
 
 🔭 I’m currently working on [66 Days of Data: SQL, Machine Learning and Deep Learning]
