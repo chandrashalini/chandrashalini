@@ -6,9 +6,9 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 
 **Updates:**
 
-🔭 I'm a graduate student studying Master's in Information Systems at Northeastern University, about to graduate in April 2022.
+🔭 I'm a graduate student studying Master's in Information Systems at Northeastern University, about to graduate in Dec 2021.
 
-🔭 I completed my Co-op as a Quantitative Reasearch Analyst at GMO LLC, Investment based company
+🔭 I have completed my Co-op as a Quantitative Reasearch Analyst at GMO LLC, Investment based company
 
 🔭 I am ready to take projects based on Data Science and Analytics, ping me if you need collaboration
 
@@ -27,6 +27,7 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 <h3><a href="https://chandrashalini.github.io/">Portfolio</a>👩🏾‍ </h3>
 - Sharing updates on <a href="https://www.linkedin.com/in/shalini-chandra-b1734b8b/">LinkedIn</a> 💼
 - Catching up on <a href = "mailto: chandra.shal@northeastern.edu">Send Email</a> :e-mail:
+- Follow my medium articles on <a href="https://shalinichandr.medium.com/">Medium</a> 💼 
 
 ## **Language and Tools**
 
@@ -60,7 +61,7 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 ## ⚡ Technologies
 Talk to me about
 - Data Science and Analytics having expert in **Python, R, SQL, Tableau, Power BI , Talend**
-- Making for **Relational Database Management Systems**
+- Making for **Reinforcement Learning and Big Data Engineering**
 
 
 ## About me 🤔
