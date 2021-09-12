@@ -8,7 +8,7 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 
 🔭 I'm a graduate student studying Master's in Information Systems at Northeastern University, about to graduate in Dec 2021.
 
-🔭 I have completed my Co-op as a Quantitative Reasearch Analyst at GMO LLC, Investment based company
+🔭 I have completed my Co-op as a Quantitative Reasearch Analyst at GMO,Investment based company worked on time series asset data and developed new model for Bond and Currency 
 
 🔭 I have almost 4 years of work experience as a data Analyst and Application Development Analyst at Accenture, India
 
