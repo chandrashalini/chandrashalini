@@ -5,12 +5,18 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 
 **Updates:**
 
-🔭 I'm a graduate student studying Master's in Information Systems at Northeastern University, about to graduate in Dec 2021.
+🔭 I'm a graduate student studying Master's in Information Systems at Northeastern University, expecting to graduate in Dec 2021.
+
 🔭 I have completed my Co-op as a Quantitative Reasearch Analyst at GMO Investment, worked on time series asset data and developed new model for Bond and Currency 
+
 🔭 I have almost 4 years of work experience as a Data Analyst and Application Development Analyst at Accenture, India
+
 🔭 Making for **Reinforcement Learning and Big Data Engineering**
+
 🔭 I am ready to take projects based on Data Science and Analytics, ping me if you need collaboration
+
 🌱 I’m  writing my medium articles related to Data Science on https://shalinichandr.medium.com/. Please do like and follow if it's valuable for you
+
 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** **Deep Learning** and **Data Warehouse and Business Intelligence**
 
 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/shalini-chandra-b1734b8b/)
