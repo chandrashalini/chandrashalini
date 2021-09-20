@@ -21,7 +21,7 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 
 ## Find me around the web 🌎: 
 
-- See my project portfolio on <h3><a href="https://chandrashalini.github.io/">Portfolio</a>👩🏾‍ </h3>
+- <h3><a href="https://chandrashalini.github.io/">Portfolio</a>👩🏾‍ </h3>
 - Sharing updates on <a href="https://www.linkedin.com/in/shalini-chandra-b1734b8b/">LinkedIn</a> 💼
 - Catching up on <a href = "mailto: chandra.shal@northeastern.edu">Send Email</a> :e-mail: 
 - Follow my medium articles on <a href="https://shalinichandr.medium.com/">Medium</a> 💼 
