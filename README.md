@@ -1,17 +1,17 @@
 # Hey, I'm Shalini Chandra!! 👩🏾‍💻
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrashalini" alt="chandrashalini" /> </p>
 <img align='right' src='https://github.com/chandrashalini/shal/blob/main/data.gif' width='200"'>
-I'm a Data Science enthusiast who is passionate about digging raw data and turns into meaningful data . Always intrigued by visualizing how novel real-world problems can be solved just by critical thinking and innovation, nothing matters more than just acting at the right time. Some technologies I enjoy working with include Machine Learning, Deep Learning, Natural Language Processing, Data warehouse & Business Intelligence. 
+I'm a Data Science enthusiast who is passionate about digging raw data and turns into meaningful data . Always intrigued by visualizing how novel real-world problems can be solved just by critical thinking and innovation, nothing matters more than just acting at the right time. Some technologies I enjoy working with include Machine Learning, Deep Learning, Natural Language Processing. 
 
 **Updates:**
 
 🔭 I'm a graduate student studying Master's in Information Systems at Northeastern University, expecting to graduate in Dec 2021.
 
-🔭 I have completed my Co-op as a Quantitative Reasearch Analyst at GMO Investment, worked on time series asset data and developed new model for Bond and Currency 
+🔭 I worked as an Asset Allocation Quantitative Co-op at GMO Investment,USA, analysed time series asset data and developed new model for Bond and Currency forecast 
 
 🔭 I have almost 4 years of work experience as a Data Analyst and Application Development Analyst at Accenture, India
 
-🔭 Making for **Reinforcement Learning and Big Data Engineering**
+🔭 Making for **Natural Language Processing and Big Data Engineering**
 
 🔭 I am ready to take projects based on Data Science and Analytics, ping me if you need collaboration
 
@@ -24,11 +24,8 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 ## Find me around the web 🌎: 
 
 - See my project portfolio on <h3><a href="https://chandrashalini.github.io/">Portfolio</a>👩🏾‍ </h3>
-
 - Sharing updates on <a href="https://www.linkedin.com/in/shalini-chandra-b1734b8b/">LinkedIn</a> 💼
-- 
-- Catching up on <a href = "mailto: chandra.shal@northeastern.edu">Send Email</a> :e-mail:
-- 
+- Catching up on <a href = "mailto: chandra.shal@northeastern.edu">Send Email</a> :e-mail: 
 - Follow my medium articles on <a href="https://shalinichandr.medium.com/">Medium</a> 💼 
 
 ## **Language and Tools**
