@@ -5,9 +5,9 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 
 **Updates:**
 
-🔭 I'm a graduate student studying Master's in Information Systems at Northeastern University, expecting to graduate in Dec 2021.
+🔭 I'm doing Master's in Information Systems at Northeastern University, expecting to graduate in Dec 2021.
 
-🔭 I worked as an Asset Allocation Quantitative Co-op at GMO Investment,USA, analysed time series asset data and developed new model for Bond and Currency forecast 
+🔭 I worked as an Asset Allocation Quantitative Co-op at GMO Investment USA, where I analysed on time series asset data and developed new model for Bond and Currency forecast 
 
 🔭 I have almost 4 years of work experience as a Data Analyst and Application Development Analyst at Accenture, India
 
