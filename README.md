@@ -22,9 +22,13 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/shalini-chandra-b1734b8b/)
 
 ## Find me around the web 🌎: 
-<h3><a href="https://chandrashalini.github.io/">Portfolio</a>👩🏾‍ </h3>
+
+- See my project portfolio on <h3><a href="https://chandrashalini.github.io/">Portfolio</a>👩🏾‍ </h3>
+
 - Sharing updates on <a href="https://www.linkedin.com/in/shalini-chandra-b1734b8b/">LinkedIn</a> 💼
+- 
 - Catching up on <a href = "mailto: chandra.shal@northeastern.edu">Send Email</a> :e-mail:
+- 
 - Follow my medium articles on <a href="https://shalinichandr.medium.com/">Medium</a> 💼 
 
 ## **Language and Tools**
@@ -54,9 +58,9 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 ## About me 🤔
-- I Love exploring new places, meeting with new people 
+- I love exploring new places and meeting with new people 
 - 💬 Ask me about anything and everything about Data.
 - 📫 How to reach me: chandra.shal@northeastern.edu
-- 🎯 Portfolio site: [Portfolio](https://chandrashalini.github.io/)
+
 
 
