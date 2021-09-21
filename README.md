@@ -3,7 +3,6 @@
 <img align='right' src='https://github.com/chandrashalini/shal/blob/main/data.gif' width='200"'>
 I'm a Data Science enthusiast who is passionate about digging raw data and turns into meaningful data . Always intrigued by visualizing how novel real-world problems can be solved just by critical thinking and innovation, nothing matters more than just acting at the right time. Some technologies I enjoy working which include Machine Learning, Deep Learning, Natural Language Processing. 
 
-
 **Updates:**
 
 🔭 I'm doing master's in Information Systems at Northeastern University, expecting to graduate in Dec 2021.
