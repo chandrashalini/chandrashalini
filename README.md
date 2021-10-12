@@ -5,7 +5,7 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 
 **Updates:**
 
-🔭 I'm doing master's in Information Systems at Northeastern University, expecting to graduate in Dec 2021.
+🔭 I'm doing master's in Information Systems at Northeastern University, expecting to graduate in May 2022.
 
 🔭 I worked as an Asset Allocation Quantitative Co-op at GMO Investment USA, where I analysed on time series asset data and developed new model for Bond and Currency forecast 
 
