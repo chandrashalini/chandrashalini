@@ -19,7 +19,7 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 - Sharing updates on <a href="https://www.linkedin.com/in/shalinichandraa/">LinkedIn</a> 💼
 - Catching up on <a href = "mailto: chandra.shal@northeastern.edu">Send Email</a> :e-mail: 
 - Follow my medium articles on <a href="https://shalinichandr.medium.com/">Medium</a> 💼 
-- Tableau Public profile < a href="https://public.tableau.com/app/profile/shalini.chandra">Tableau Public profile</a>💼 
+- Tableau Public profile on <a href="https://public.tableau.com/app/profile/shalini.chandra/">Tableau Profile</a>💼 
 
 ## **Language and Tools**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrashalini&theme=radical)
