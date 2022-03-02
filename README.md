@@ -1,15 +1,13 @@
 # Hey, I'm Shalini Chandra!! 👩🏾‍💻
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrashalini" alt="chandrashalini" /> </p>
 <img align='right' src='https://github.com/chandrashalini/shal/blob/main/data.gif' width='200"'>
-I'm a Data Science enthusiast who is passionate about digging raw data and turns into meaningful data . Always intrigued by visualizing how novel real-world problems can be solved just by critical thinking and innovation, nothing matters more than just acting at the right time. Some technologies I enjoy working which include Machine Learning, Deep Learning, Natural Language Processing. 
+I'm a Data Science enthusiast who is passionate about digging raw data and turns into meaningful data . Always intrigued by visualizing how novel real-world problems can be solved just by critical thinking and innovation, nothing matters more than just acting at the right time. Some technologies I enjoy working which include Machine Learning, Deep Learning, Natural Language Processing, Data Warehousing and Business Intelligence. 
 
 **Updates:**
 
-🔭 I'm doing master's in Information Systems at Northeastern University, expecting to graduate in May 2022.
+🔭 I'm doing master's in Information Systems at Northeastern University graduating in May 2022.
 
-🔭 I worked as an Asset Allocation Quantitative Co-op at GMO Investment USA, where I analysed on time series asset data and developed new model for Bond and Currency forecast 
-
-🌱 I’m  writing my medium articles related to Data Science on https://shalinichandr.medium.com/. Please do like and follow if it's valuable for you
+🔭 I worked as an Asset Allocation Quantitative Co-op at GMO LLC, where I optimised ETL Asset data pipeline and developed model improved accuracy by 20%
 
 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** **Deep Learning** and **Data Warehouse and Business Intelligence**
 
