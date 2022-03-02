@@ -18,8 +18,6 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 - Catching up on <a href = "mailto: chandra.shal@northeastern.edu">Send Email</a> :e-mail: 
 - Follow my medium articles on <a href="https://shalinichandr.medium.com/">Medium</a> 💼 
 - Tableau Public profile on <a href="https://public.tableau.com/app/profile/shalini.chandra/">Tableau Profile</a>💼 
-
 ## **Language and Tools**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrashalini&theme=radical)
-![Shalini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandrashalini&hide=prs,issues,contribs?username=chandrashalini&count_private=true?username=chandrashalini&show_icons=true&theme=radical)
 </code>
