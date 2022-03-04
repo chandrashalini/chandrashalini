@@ -6,10 +6,10 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 **Updates:**
 
 🔭 I'm doing master's in Information Systems at Northeastern University graduating in May 2022.
-
-🔭 I worked as an Asset Allocation Quantitative Co-op at GMO LLC, where I optimised ETL Asset data pipeline and developed model improved accuracy by 20%
-
-👯 I’m looking to collaborate on **Data Science**, **Machine Learning** **Deep Learning** and **Data Warehouse and Business Intelligence**
+👨‍💻 I code every day
+📚 I read a lot of technical document too
+🔭 I worked as an Asset Allocation Quantitative Co-op at GMO LLC, where I optimised ETL Asset data pipeline and developed asset model
+👯 I’m looking to collaborate on **Data Science**, **Data Engineer** and **Data Warehouse and Business Intelligence**
 
 ## Find me around the web 🌎: 
 
