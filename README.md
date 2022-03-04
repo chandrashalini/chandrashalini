@@ -5,9 +5,9 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 
 **Updates:**
 
--🔭 I'm doing master's in Information Systems at Northeastern University graduating in May 2022
+🔭 I'm doing master's in Information Systems at Northeastern University graduating in May 2022
 
--👨‍💻 I code every day
+👨‍💻 I code every day
 
 📚 I read a lot of technical document too
 
