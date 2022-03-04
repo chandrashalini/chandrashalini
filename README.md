@@ -5,9 +5,9 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 
 **Updates:**
 
-🔭 I'm doing master's in Information Systems at Northeastern University graduating in May 2022
+-🔭 I'm doing master's in Information Systems at Northeastern University graduating in May 2022
 
-👨‍💻 I code every day
+-👨‍💻 I code every day
 
 📚 I read a lot of technical document too
 
@@ -16,7 +16,6 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 👯 I’m looking to collaborate on **Data Science**, **Data Engineer** and **Data Warehouse and Business Intelligence**
 
 ## Find me around the web 🌎: 
-
 - <h3><a href="https://chandrashalini.github.io/">Portfolio</a>👩🏾‍ </h3>
 - Sharing updates on <a href="https://www.linkedin.com/in/shalinichandraa/">LinkedIn</a> 💼</h3>
 - Catching up on <a href = "mailto: chandra.shal@northeastern.edu">Send Email</a> :e-mail: </h3>
