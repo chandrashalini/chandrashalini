@@ -11,8 +11,6 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 
 📚 I read a lot of technical document too
 
-🔭 I worked as an Asset Allocation Quantitative Co-op at GMO LLC, where I optimised ETL Asset data pipeline and developed asset model
-
 👯 I’m looking to collaborate on **Data Science**, **Data Engineer** and **Data Warehouse and Business Intelligence**
 
 ## Find me around the web 🌎: 
