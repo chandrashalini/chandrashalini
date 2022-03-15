@@ -7,7 +7,7 @@ I'm a Data Science enthusiast who is passionate about digging raw data and turns
 
 🔭 I'm doing master's in Information Systems at Northeastern University graduating in May 2022
 
-👨‍💻 I code every day
+👨‍💻 I code every day related to Data Structure and Algorithms
 
 📚 I read a lot of technical document too
 
